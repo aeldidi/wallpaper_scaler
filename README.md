@@ -19,11 +19,11 @@ monitor's resolution.
 
 ## Example Input Image
 
-![Input Picture](./dielit.png)
+![Input Picture](./luvisrage2.jpg)
 
 ## Generated Output Image
 
-![Output Picture](./dielit_output.png)
+![Output Picture](./luvisrage2_output.png)
 
 ## Example #2
 
