@@ -15,7 +15,7 @@ python3 -m pip install Pillow
 Modify the `width` and `height` variables in the `wallpaper_scaler.py` to your
 monitor's resolution.
 
-`usage: wallpaper_scaler.py <image to make into wallpaper> [output file]`
+`usage: wallpaper_scaler.py file --width WIDTH --height HEIGHT [--output OUTPUT]`
 
 ## Example Input Image
 
